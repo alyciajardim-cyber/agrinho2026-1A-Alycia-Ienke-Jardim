@@ -1,0 +1,32 @@
+.cabecalho(display):flex
+display:flex
+justify-content:center;space-between;
+align-intems:center; 
+)
+.cabecalho-titulo{
+   color: rgb(7, 100, 49); 
+   font-weight: 800;
+}
+{
+.Cabecalho-menu{ 
+display: block;
+unicode-bidi: isolate;
+}
+
+.cabecalho-menu-intem{
+text-decoration:nome;
+color: rgb(179, 174, 174);
+margin:0 15px
+}
+
+.cabecalho-menu-botao{
+background-color: black;
+color: antiquewhite;
+border: nome;
+
+padding: ;
+
+
+
+
+}
